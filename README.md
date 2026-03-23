@@ -1,2 +1,2 @@
 # Basic-SQL
-Basic SQL exercises
+Hand written basic SQL exercises 
